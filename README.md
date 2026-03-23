@@ -167,11 +167,6 @@ python app.py
 * API and web deployment basics
 * Real-world ML project structuring
 
----
-
-## 👨‍💻 Author
-
-Niladri Ghosh
 
 ---
 
